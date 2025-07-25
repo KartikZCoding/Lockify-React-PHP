@@ -1,0 +1,66 @@
+.header {
+  background-color: black;
+  color: white;
+  height: 80px;
+}
+.header h1 {
+  margin-left: 20px;
+  line-height: 80px;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  height: 50px;
+}
+.content {
+  height: 460px;
+}
+
+.footer p {
+  line-height: 50px;
+}
+
+form {
+  margin-left: 400px;
+  margin-top: 50px;
+}
+form h2 {
+  padding-left: 150px;
+  padding-bottom: 10px;
+}
+input[type="text"] {
+  width: 300px;
+  height: 30px;
+}
+input[type="submit"] {
+  height: 30px;
+  width: 100px;
+}
+
+.hcontent {
+  border: 1px solid black;
+  height: 100px;
+  width: 23%;
+  margin: 1%;
+  padding-left: 100px;
+  padding-top: 20px;
+  float: left;
+}
+.vcontent {
+  height: 200px;
+  font-size: 20px;
+  font-style: italic;
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 400px;
+  margin-left: 400px;
+  margin-top: 100px;
+  padding-top: 40px;
+  padding-left: 30px;
+}
